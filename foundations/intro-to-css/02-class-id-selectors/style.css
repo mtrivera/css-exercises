@@ -1,0 +1,19 @@
+.odd {
+  background: rgb(253, 198, 198);
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#second-div {
+  color: rgb(0, 0, 255);
+  font-size: 36px;
+}
+
+#fourth-div {
+  background: rgb(163, 252, 222);
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.third-elm {
+  font-size: 24px;
+}
